@@ -1,0 +1,14 @@
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\bin\Debug\net8.0\The Void.exe
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\bin\Debug\net8.0\The Void.deps.json
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\bin\Debug\net8.0\The Void.runtimeconfig.json
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\bin\Debug\net8.0\The Void.dll
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\bin\Debug\net8.0\The Void.pdb
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\The Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\The Void.AssemblyInfoInputs.cache
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\The Void.AssemblyInfo.cs
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\The Void.csproj.CoreCompileInputs.cache
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\The Void.dll
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\refint\The Void.dll
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\The Void.pdb
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\The Void.genruntimeconfig.cache
+C:\Users\TBRWorld\GUACAMOLE GAMER FART\applications\git repositories\C#\theVoid\The Void\obj\Debug\net8.0\ref\The Void.dll
